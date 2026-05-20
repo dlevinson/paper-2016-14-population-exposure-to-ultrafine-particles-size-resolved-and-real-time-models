@@ -1,0 +1,10 @@
+relative_path,size_bytes,package_role
+README.md,1694,documentation
+RESTRICTED_REVIEW_DECISION.md,727,documentation
+code/ufp-emission-model-csharp/EmissionModel/EmissionModel.cs,75870,code_source
+code/ufp-emission-model-csharp/EmissionModel/EmissionModel.csproj,2543,code_source
+code/ufp-emission-model-csharp/EmissionModel/Program.cs,2231,code_source
+code/ufp-emission-model-csharp/EmissionModel/Properties/AssemblyInfo.cs,1456,code_source
+code/ufp-emission-model-csharp/EmissionModel.sln,929,code_source
+metadata/SOURCE_FILE_DECISIONS.csv,1090,metadata
+paper/Emissions-Published.pdf,4199734,paper_reference

@@ -1,0 +1,6 @@
+source_path,decision,reason
+/Users/dlev2617/Documents/Data/~Nexus_Data/~CODE/C_Projects-Code/EmissionModel,include_source_code_only,Relevant C# Ultra-Fine Particle emission estimation model; binaries/bin/obj excluded.
+/Users/dlev2617/Documents/Data/~Nexus_Data/~CODE/C_Projects-Code/EmissionModel/EmissionModel/bin,exclude_build_artifacts,Compiled binaries/build outputs are not source archive material.
+/Users/dlev2617/Documents/Papers/~05-Published/Transportation Research part D/TRd - EmissionPaper,include_final_paper_only,"Folder contains drafts/letters/admin files; final published PDF retained, nonarchival drafts/correspondence excluded."
+LoopStationIDPairs.csv; ModelParameters.csv; WeatherCondition.csv; Station_DetID_List.csv; MnDOT_Data/Emission,missing_named_inputs,Referenced by Program.cs old F: drive paths; targeted local/Dropbox search did not locate these CSV/source folders.
+GPS travel trajectory records described in paper,restricted_not_staged,Individual trajectory-level data require privacy/de-identification review before any restricted annex or public derivative.
