@@ -1,6 +1,6 @@
 # License Status: Population Exposure To Ultrafine Particles: Size-Resolved And Real-Time Models
 
-Generated: 2026-05-20 15:32:54 AEST
+Generated: 2026-05-21 20:19:00 AEST
 
 Recorded license/access note from the verified audit row: Article under publisher terms; trajectory-level and monitoring-source data release terms unresolved.
 
