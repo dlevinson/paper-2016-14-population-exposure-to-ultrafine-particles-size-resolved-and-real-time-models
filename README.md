@@ -1,5 +1,9 @@
 # Population Exposure To Ultrafine Particles: Size-Resolved And Real-Time Models
 
+## Contribution
+
+This paper combines size-resolved ultrafine-particle models, real-time freeway traffic, and individual GPS trajectories to estimate personal and population exposure on highways. Twin Cities results reveal substantial variation among travelers, with peak exposure during commute periods and near interchanges, providing a bridge between traffic conditions and epidemiological exposure assessment.
+
 This package is a cleaned work-required package for Zhu, Marshall, and Levinson (2016), *Population Exposure to Ultrafine Particles: Size-Resolved and Real-Time Models*, Transportation Research Part D, DOI: 10.1016/j.trd.2016.09.010.
 
 ## Current Status
